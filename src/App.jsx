@@ -1,0 +1,21 @@
+import Header from './components/Header.jsx';
+import Summary from './components/Summary.jsx';
+import Skills from './components/Skills.jsx';
+import Projects from './components/Projects.jsx';
+import Experience from './components/Experience.jsx';
+import Education from './components/Education.jsx';
+import Footer from './components/Footer.jsx';
+
+export default function App() {
+  return (
+    <div className="max-w-4xl mx-auto p-6 bg-white shadow-lg min-h-screen text-gray-800">
+      <Header />
+      <Summary />
+      <Skills />
+      <Projects />
+      <Experience />
+      <Education />
+      <Footer />
+    </div>
+  );
+}
