@@ -1,9 +1,9 @@
 export default function Header() {
   return (
-    <header className="text-center mb-8">
-      <h1 className="text-4xl font-bold text-blue-600">Tshepiso Makuoa</h1>
-      <p className="text-lg">Junior Software Developer & Full-Stack Researcher</p>
-      <p>Email: your-email@example.com | Phone: 067 700 9200</p>
+    <header className="text-left mb-8">
+      <h1 className="text-4xl font-bold text-black-600">Tshepiso P Makuoa</h1>
+      <p className="text-xl">Software Developer | Machine Learning | Project Manager </p>
+      <p className="text-sm">Email: tshepisomakuoa02@gmail.com  | Phone: 069 324 6135  | LinkedIn:  </p>
     </header>
   );
 }
