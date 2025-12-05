@@ -7,7 +7,7 @@ export default function Experience() {
         <li>Developed AI/ML‑powered systems.</li>
         <li>Created Android and web applications.</li>
         <li>Built IoT automation solutions.</li>
-         <li>Facilitator for ICT student inder (Software Development Programme ) </li>
+         <li>Facilitator for ICT student under (Software Development Programme ) </li>
       </ul>
     </section>
   );
