@@ -41,7 +41,7 @@ export default function Header() {
       </p>
 
       <p className="text-sm">
-        Email: tshepisomakuoa02@gmail.com | Phone: 069 324 6135 | LinkedIn: <a href="https://www.linkedin.com/in/tshepiso-makuoa-1089782a3/"
+        Email: <a href="mailto:tshepisomakuoa02@gmail.com">tshepisomakuoa02@gmail.com </a>| Phone:<a href="tel:+27693246135">069 324 6135 </a>| LinkedIn: <a href="https://www.linkedin.com/in/tshepiso-makuoa-1089782a3/"
         className="text-blue-600 hover:text-red-600 ">LinkedIn Profile</a>
       </p>
 

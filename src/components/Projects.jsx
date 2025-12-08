@@ -10,19 +10,28 @@ export default function Projects() {
       </div>
 
       <div className="mb-4">
-        <li><h3 className="font-bold">Smart Irrigation System</h3></li>
+        <a href="https://github.com/SnowwhiteA1/JumpStart-Smart-House"><li><h3 className="font-bold">Smart Irrigation System</h3></li></a>
         <p>IoT and automation using NodeMCU + Flask backend + React dashboard.</p>
       </div>
 
       <div className="mb-4">
-        <li><h3 className="font-bold">CO₂ Emission Prediction Platform</h3></li>
+        <a href="https://github.com/SnowwhiteA1/MAISH"><li><h3 className="font-bold">CO₂ Emission Prediction Platform</h3></li></a>
         <p>Machine-learning model + user interface for predictions.</p>
       </div>
       
       <div className="mb-4">
-        <li><h3 className="font-bold">Projects and Beneficiary Management System  </h3></li>
+       <a href="https://github.com/SnowwhiteA1/Project-and-Beneficiaries-Management-Syatem"> <li><h3 className="font-bold">Projects and Beneficiary Management System  </h3></li></a>
         <p>Software system for tracking beneficiaries and their replacements in a project. </p>
-      </div></ul>
+      </div>
+
+       <div className="mb-4">
+        <a href="https://github.com/SnowwhiteA1/AccessProject_JumpStart"><li><h3 className="font-bold">Facilitator and Programme director</h3></li></a>
+        <p>Mentor and programme director for a ICT Learnership </p>
+      </div>
+      
+      
+      
+      </ul>
     </section>
   );
 }
